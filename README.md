@@ -1,4 +1,4 @@
-﻿# llm-learning
+# llm-learning
 
 ## 这是什么
 
@@ -11,6 +11,7 @@
 ```
 llm-learning/
 ├── python-basics/   # 第一列：Python 基础语法（输入输出 / 数据结构 / 函数 / 文件读写 / 异常处理 / 模块和包）
+├── notes/           # 学习笔记（按主题，一个知识点一篇）
 └── ...              # 随进度新增：第二列 pandas、mysql；第三列 pytorch、nlp；第四列 langchain
 ```
 
